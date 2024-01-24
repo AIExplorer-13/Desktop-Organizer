@@ -27,6 +27,8 @@ Audio: .m4a, .flac, .mp3, .wav, .wma, .aac
 
 Documents: .doc, .docx, .odt, .pdf, .xls, .xlsx, .ppt, .pptx
 
+Python files: .py, .ipynb, .pyi, .pyc, .pyd, .pyo, .pyw, .pyz
+
 
 
  -----MAIN PROGRAM-----
